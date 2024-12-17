@@ -6,7 +6,7 @@ isim1 = "sertan";  // Assignment -> atama
 
 int yas = 28;
 
-
+Console.WriteLine("Commitlenmiş hali pushluyorum.");
 
 /*
 
